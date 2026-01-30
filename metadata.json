@@ -1,0 +1,7 @@
+{
+  "name": "Digital AAC Sidekick",
+  "description": "A digital nonverbal communication assistant providing organic animated cues like nodding, shaking, and emphasizing to support AAC users.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
